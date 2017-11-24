@@ -9,3 +9,6 @@ This repository is a bucket of blog post from different blogger about JavaScript
 1. https://john-dugan.com/this-in-javascript/
 2. https://github.com/gordonmzhu/cheatsheet-js (best I'vd found)
 
+## regular expression
+1. https://codeburst.io/an-introduction-to-regular-expressions-regex-in-javascript-1d3559e7ac9a
+
